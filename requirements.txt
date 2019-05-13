@@ -1,3 +1,0 @@
-termcolor
-scapy
-fake-useragent
